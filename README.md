@@ -10,7 +10,7 @@ The data is stored in Google Cloud Storage (GCS) and then loaded into Google Big
 - [Overview](#overview)
 - [Architecture](#architecture)
 - [Dataset Used](#dataset-used)
-- [Data Modeling](#system-setup)
+- [Data Modeling](#data-modeling)
 - [Step in This Project](#step-in-this-project)
 - [Results](#results)
 
